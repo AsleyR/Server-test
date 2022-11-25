@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-wrap {
+    display: grid;
+    justify-content: center;
+    background-color: rgb(177, 177, 177);
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.body-wrap {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.footer-wrap {
+    display: grid;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
